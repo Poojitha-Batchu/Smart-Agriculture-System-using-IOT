@@ -9,11 +9,12 @@ AGRICULTURE APP about the levels. If the soil type is DRY, then it Automatically
 by using App and also Off the pump when the soil is dry. DTH22 sensor senses the temperature and
 humidity values.
 
--> Language used: Micropython
--> App created using: Kodular
--> Database used: Firebase
+## 
+- Language used: Micropython
+- App created using: Kodular
+- Database used: Firebase
 
-Components used:
+## Components used:
 1. ESP32S
 2. Soil moisture sensor
 3. Dc Pump
